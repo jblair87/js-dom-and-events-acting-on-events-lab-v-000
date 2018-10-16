@@ -8,6 +8,6 @@ preventRefreshOnSubmit();
 
 function retrieveEmployeeInformation(){}
 
-function retrieveEmployeeInformation(){}
+function addNewElementAsLi(){}
 
 function retrieveEmployeeInformation(){}
