@@ -10,4 +10,4 @@ function retrieveEmployeeInformation(){}
 
 function addNewElementAsLi(){}
 
-function retrieveEmployeeInformation(){}
+function addNewLiOnClick(){}
