@@ -11,3 +11,5 @@ function retrieveEmployeeInformation(){}
 function addNewElementAsLi(){}
 
 function addNewLiOnClick(){}
+
+function retrieveEmployeeInformation(){}
