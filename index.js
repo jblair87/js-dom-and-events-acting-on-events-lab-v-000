@@ -10,7 +10,10 @@ function retrieveEmployeeInformation(){
    document.querySelector('form')
 }
 
-function addNewElementAsLi(){}
+function addNewElementAsLi(){
+  document.querySelector('.employee-list')
+  
+}
 
 function addNewLiOnClick(){}
 
